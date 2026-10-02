@@ -1,0 +1,298 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    color: white;
+    background-color: #121212;
+}
+
+#logo{
+    font-size:15px;
+}
+
+span{
+    color: #D4AF37;
+}
+
+/*navbar*/
+
+#navbar{
+    background-color: #242424;
+}
+
+table{
+    margin: 20px;
+}
+
+a{
+   color: white;
+   text-decoration: none;
+   margin-left: 20px ;
+}
+
+a:hover{
+    color: #D4AF37;
+}
+
+
+#anc{
+    padding-left: 500px;
+}
+
+#contact{
+    padding: 5px;
+    color:#242424;
+    background-color: #D4AF37;
+    border-radius: 20px 20px;
+}
+
+#contact:hover{
+    color:#F5F5F5 ;
+}
+
+/*hero*/
+
+#hero{
+    margin: 0 30px;
+    margin-top: 80px;
+    margin-bottom: 50px ;
+}
+
+#main-h1{
+    color:  #D4AF37;
+    font-size: 50px;
+}
+
+p{
+    font-family: 'Inter', sans-serif;
+    font-size: larger;
+    color:#F5F5F5;
+}
+
+#para1{
+    margin-top: 20px;
+}
+
+#para2{
+    color: #888585;
+}
+
+.hero-btn{
+    padding: 10px;
+    color: #242424;
+    background-color: #D4AF37;
+    border-radius: 20px 20px;
+}
+
+.hero-btn:hover{
+    color: #F5F5F5;
+}
+
+hr{
+    margin: 60px 0 10px 0;
+}
+
+/*feature texture*/
+
+#main-h2{
+    font-size: 40px;
+    color: #D4AF37;
+}
+
+.card{
+    margin-top: 30px;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding-top: 50px;
+    margin-left: 20px;
+    text-align: center;
+    width: 400px;
+    height: 400px;
+    background-color: #242424;
+}
+
+.card:hover{
+    border-color: #D4AF37;
+    background-color: #414141;
+}
+
+h2{
+    margin-bottom: 10px;
+}
+
+#para4{
+    padding-top: 10px;
+    margin-bottom: 20px;
+}
+
+.view{
+    margin-left: 0%;
+    border-radius: 20px 20px;
+    padding: 8px;
+    color: #121212;
+    background-color: #D4AF37;
+}
+
+.view:hover{
+    color: #F5F5F5;
+    background-color: #D4AF37;
+}
+
+.card img {
+  width: 90%;
+  height: 200px;            
+  border-radius: 6px;    
+}
+
+/*why chose us*/
+
+.d-card{
+    margin-top: 30px;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding-top: 50px;
+    margin-left: 20px;
+    text-align: center;
+    width: 400px;
+    height: 150px;
+    background-color: #242424;
+}
+
+.d-card:hover{
+    border-color: #D4AF37;
+    background-color: #414141;
+}
+
+h2{
+    color: #D4AF37;
+}
+
+#wcu{
+    margin-top: 50px;
+}
+
+/*what we offer*/
+
+#wwo{
+    margin-top: 50px;
+}
+
+/*our project*/
+
+#prj{
+    margin-top: 50px;
+}
+
+.prj-card{
+    margin-top: 30px;
+    border: 1px solid #F5F5F5;
+    border-radius: 10px;
+    padding-top: 50px;
+    margin-left: 20px;
+    text-align: center;
+    width: 400px;
+    height: 400px;
+    background-color: #242424;
+}
+
+.prj-card img {
+  width: 90%;
+  height: 250px;            
+  border-radius: 6px;    
+}
+
+.prj-card:hover{
+    border: 1px solid #D4AF37;
+    background-color: #414141;
+}
+
+/*Review*/
+
+#reviews{
+    margin-top: 50px;
+}
+
+.r-card{
+    margin-top: 30px;
+    border: 1px solid #F5F5F5;
+    border-radius: 10px;
+    padding-top: 30px;
+    margin-left: 20px;
+    text-align: center;
+    width: 400px;
+    height: 200px;
+    background-color: #242424;
+}
+
+.r-card img{
+    height: 50px;
+    width: 50px;
+}
+
+.r-card:hover{
+    border-color: #D4AF37;
+    background-color: #414141;
+}
+
+/*Contact*/
+
+#c-section{
+    background-color: #414141;
+}
+
+#contact-us{
+    margin-top: 30px;
+}
+
+.contact-info{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.info{
+    margin-top: 20px;
+}
+
+#or{
+    margin-top: 20px;
+}
+
+#book-btn{
+    padding: 10px;
+    color: #121212;
+    background-color: #D4AF37;
+    border-radius: 18px 20px;
+    margin-left: 0%;
+}
+
+#book-btn:hover{
+    color: #F5F5F5;
+}
+
+.btn{
+    margin-top: 30px;
+    padding-bottom: 2%;
+}
+
+/*footer*/
+
+#b-hr{
+    margin-top: 0%;
+}
+
+#foot{
+    color: #242424;
+}
+
+#links{
+    margin-left: 500px;
+}
+
+#c-r{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:100;
+    color: #F5F5F5;
+    margin-left: 10px;
+}
